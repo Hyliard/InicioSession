@@ -1,0 +1,8 @@
+Posibles Mejoras por hacer
+
+Autenticación Real: Podrías conectar la lógica de login y sign-up con una base de datos o API real (por ejemplo, Firebase o tu propio backend).
+Navegación Condicional: Actualmente, solo se cambia entre las vistas de login y signup. Podrías añadir navegación condicional si el usuario ya ha iniciado sesión.
+Este es un punto de partida básico, pero puedes ir expandiendo funcionalidades como la autenticación real, almacenamiento local (por ejemplo, usando UserDefaults o Core Data), etc.
+
+
+
